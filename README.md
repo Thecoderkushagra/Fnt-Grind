@@ -4,6 +4,16 @@ Welcome to the **Grind** frontend repository! Grind is an AI-powered fitness app
 
 ---
 
+## Package Used
+
+react-router-dom
+axios
+bootstrap
+lucid-react
+react-hot-toast
+
+---
+
 ## 🚀 Features
 
 - **Personalized Workouts**: AI-generated workout plans tailored to your fitness level and goals.
